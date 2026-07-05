@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /buyer/checkout
+Disallow: /buyer/account
+Disallow: /buyer/orders
+Disallow: /buyer/courses
+Disallow: /buyer/wishlist
+Disallow: /seller/
+Disallow: /*/login
+Disallow: /*/signup
+
+Sitemap: https://sellizi.app/sitemap.xml
